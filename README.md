@@ -1,4 +1,4 @@
-# Laser Rail Precision Scanner (Mark I)
+# Laser Scanner (Mark I)
 
 ---
 
