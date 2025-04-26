@@ -1,4 +1,4 @@
-# Laser Scanner (Mark I)
+# LiDAR table (Mark I)
 
 ---
 
